@@ -12,4 +12,4 @@ $G_1=(V_1 , E_1)$ is isomorphic to $G_2 = (V_2, E_2)$ if there exists a
 one-to-one and onto function (bijection) $f: V_1 \rightarrow V_2$ such that $(u,v)
 \in E_1$ iff $(f(u),f(v)) \in E_2$.
 
-Given that there must be a one-to-one and onto function (bijection) that would require that both graphs have the same number of nodes as one-to-one and onto requires that each node of one graph is able to map to only on other node in the other. If they do not have the same number of nodes this is not possible.
+Given that there must be a one-to-one and onto function (bijection) that would require that both graphs have the same number of nodes as one-to-one and onto requires that each node of one graph is able to map to only one other node in the other. If they do not have the same number of nodes this is not possible.
